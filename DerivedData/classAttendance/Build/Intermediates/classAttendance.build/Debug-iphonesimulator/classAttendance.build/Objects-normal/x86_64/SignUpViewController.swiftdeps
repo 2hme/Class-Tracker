@@ -1,0 +1,351 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SignUpViewController"
+provides-nominal:
+- "C15classAttendance20SignUpViewController"
+provides-member:
+- ["C15classAttendance20SignUpViewController", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "nameTextField"
+- "viewDidLoad"
+- "idTextField"
+- "signUpButtonPressed"
+- "passwordTextField"
+depends-top-level:
+- "UITextField"
+- !private "UIAlertController"
+- !private "BooleanLiteralType"
+- "AnyObject"
+- !private "=="
+- "SignUpViewController"
+- !private "StringLiteralType"
+- "UIViewController"
+- !private "||"
+- !private "UIAlertAction"
+depends-member:
+- !private ["PSs9AnyObject", "UIAlertAction"]
+- !private ["PSs9AnyObject", "UIAlertController"]
+- !private ["PSs9AnyObject", "addAction"]
+- ["PSs9AnyObject", "didReceiveMemoryWarning"]
+- ["PSs9AnyObject", "idTextField"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "nameTextField"]
+- ["PSs9AnyObject", "passwordTextField"]
+- !private ["PSs9AnyObject", "presentViewController"]
+- ["PSs9AnyObject", "signUpButtonPressed"]
+- !private ["PSs9AnyObject", "text"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- ["PSs9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["PSs25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs11BooleanType", "_getBuiltinLogicValue"]
+- !private ["PSs11CVarArgType", "UIAlertAction"]
+- !private ["PSs11CVarArgType", "UIAlertController"]
+- !private ["PSs11CVarArgType", "addAction"]
+- ["PSs11CVarArgType", "didReceiveMemoryWarning"]
+- ["PSs11CVarArgType", "idTextField"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "nameTextField"]
+- ["PSs11CVarArgType", "passwordTextField"]
+- !private ["PSs11CVarArgType", "presentViewController"]
+- ["PSs11CVarArgType", "signUpButtonPressed"]
+- !private ["PSs11CVarArgType", "text"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs23CustomStringConvertible", "UIAlertAction"]
+- !private ["PSs23CustomStringConvertible", "UIAlertController"]
+- !private ["PSs23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs23CustomStringConvertible", "addAction"]
+- ["PSs23CustomStringConvertible", "didReceiveMemoryWarning"]
+- ["PSs23CustomStringConvertible", "idTextField"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "nameTextField"]
+- ["PSs23CustomStringConvertible", "passwordTextField"]
+- !private ["PSs23CustomStringConvertible", "presentViewController"]
+- ["PSs23CustomStringConvertible", "signUpButtonPressed"]
+- !private ["PSs23CustomStringConvertible", "text"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs9Equatable", "Alert"]
+- !private ["PSs9Equatable", "Default"]
+- !private ["PSs9Equatable", "UIAlertAction"]
+- !private ["PSs9Equatable", "UIAlertController"]
+- !private ["PSs9Equatable", "_getBuiltinLogicValue"]
+- !private ["PSs9Equatable", "addAction"]
+- ["PSs9Equatable", "didReceiveMemoryWarning"]
+- ["PSs9Equatable", "idTextField"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "nameTextField"]
+- ["PSs9Equatable", "passwordTextField"]
+- !private ["PSs9Equatable", "presentViewController"]
+- ["PSs9Equatable", "signUpButtonPressed"]
+- !private ["PSs9Equatable", "text"]
+- ["PSs9Equatable", "viewDidLoad"]
+- ["PSs9Equatable", ""]
+- !private ["PSs8Hashable", "Alert"]
+- !private ["PSs8Hashable", "Default"]
+- !private ["PSs8Hashable", "UIAlertAction"]
+- !private ["PSs8Hashable", "UIAlertController"]
+- !private ["PSs8Hashable", "_getBuiltinLogicValue"]
+- !private ["PSs8Hashable", "addAction"]
+- ["PSs8Hashable", "didReceiveMemoryWarning"]
+- ["PSs8Hashable", "idTextField"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "nameTextField"]
+- ["PSs8Hashable", "passwordTextField"]
+- !private ["PSs8Hashable", "presentViewController"]
+- ["PSs8Hashable", "signUpButtonPressed"]
+- !private ["PSs8Hashable", "text"]
+- ["PSs8Hashable", "viewDidLoad"]
+- ["PSs8Hashable", ""]
+- !private ["PSo8NSCoding", "UIAlertAction"]
+- !private ["PSo8NSCoding", "UIAlertController"]
+- !private ["PSo8NSCoding", "addAction"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- ["PSo8NSCoding", "idTextField"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "nameTextField"]
+- ["PSo8NSCoding", "passwordTextField"]
+- !private ["PSo8NSCoding", "presentViewController"]
+- ["PSo8NSCoding", "signUpButtonPressed"]
+- !private ["PSo8NSCoding", "text"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "UIAlertAction"]
+- !private ["PSo26NSExtensionRequestHandling", "UIAlertController"]
+- !private ["PSo26NSExtensionRequestHandling", "addAction"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "idTextField"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "nameTextField"]
+- ["PSo26NSExtensionRequestHandling", "passwordTextField"]
+- !private ["PSo26NSExtensionRequestHandling", "presentViewController"]
+- ["PSo26NSExtensionRequestHandling", "signUpButtonPressed"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "AnyObject"]
+- !private ["CSo8NSObject", "UIAlertAction"]
+- !private ["CSo8NSObject", "UIAlertController"]
+- ["CSo8NSObject", "UITextField"]
+- !private ["CSo8NSObject", "addAction"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "idTextField"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "nameTextField"]
+- ["CSo8NSObject", "passwordTextField"]
+- !private ["CSo8NSObject", "presentViewController"]
+- ["CSo8NSObject", "signUpButtonPressed"]
+- !private ["CSo8NSObject", "text"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "UIAlertAction"]
+- !private ["PSo16NSObjectProtocol", "UIAlertController"]
+- !private ["PSo16NSObjectProtocol", "addAction"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "idTextField"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "nameTextField"]
+- ["PSo16NSObjectProtocol", "passwordTextField"]
+- !private ["PSo16NSObjectProtocol", "presentViewController"]
+- ["PSo16NSObjectProtocol", "signUpButtonPressed"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["Sq", "deinit"]
+- !private ["PSs16RawRepresentable", "Alert"]
+- !private ["PSs16RawRepresentable", "Default"]
+- ["C15classAttendance20SignUpViewController", "AnyObject"]
+- !private ["C15classAttendance20SignUpViewController", "UIAlertAction"]
+- !private ["C15classAttendance20SignUpViewController", "UIAlertController"]
+- ["C15classAttendance20SignUpViewController", "UITextField"]
+- ["C15classAttendance20SignUpViewController", "deinit"]
+- ["C15classAttendance20SignUpViewController", "didReceiveMemoryWarning"]
+- ["C15classAttendance20SignUpViewController", "idTextField"]
+- ["C15classAttendance20SignUpViewController", "init"]
+- ["C15classAttendance20SignUpViewController", "nameTextField"]
+- ["C15classAttendance20SignUpViewController", "passwordTextField"]
+- !private ["C15classAttendance20SignUpViewController", "presentViewController"]
+- ["C15classAttendance20SignUpViewController", "signUpButtonPressed"]
+- ["C15classAttendance20SignUpViewController", "viewDidLoad"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- !private ["CSo13UIAlertAction", "init"]
+- !private ["OSC18UIAlertActionStyle", "Default"]
+- !private ["CSo17UIAlertController", "addAction"]
+- !private ["CSo17UIAlertController", "init"]
+- !private ["OSC22UIAlertControllerStyle", "Alert"]
+- !private ["PSo12UIAppearance", "text"]
+- !private ["PSo21UIAppearanceContainer", "UIAlertAction"]
+- !private ["PSo21UIAppearanceContainer", "UIAlertController"]
+- !private ["PSo21UIAppearanceContainer", "addAction"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- ["PSo21UIAppearanceContainer", "idTextField"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "nameTextField"]
+- ["PSo21UIAppearanceContainer", "passwordTextField"]
+- !private ["PSo21UIAppearanceContainer", "presentViewController"]
+- ["PSo21UIAppearanceContainer", "signUpButtonPressed"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "UIAlertAction"]
+- !private ["PSo18UIContentContainer", "UIAlertController"]
+- !private ["PSo18UIContentContainer", "addAction"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "idTextField"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "nameTextField"]
+- ["PSo18UIContentContainer", "passwordTextField"]
+- !private ["PSo18UIContentContainer", "presentViewController"]
+- ["PSo18UIContentContainer", "signUpButtonPressed"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["CSo9UIControl", "text"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- !private ["PSo13UIDynamicItem", "text"]
+- !private ["PSo18UIFocusEnvironment", "UIAlertAction"]
+- !private ["PSo18UIFocusEnvironment", "UIAlertController"]
+- !private ["PSo18UIFocusEnvironment", "addAction"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UIFocusEnvironment", "idTextField"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "nameTextField"]
+- ["PSo18UIFocusEnvironment", "passwordTextField"]
+- !private ["PSo18UIFocusEnvironment", "presentViewController"]
+- ["PSo18UIFocusEnvironment", "signUpButtonPressed"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo10UIKeyInput", "text"]
+- ["CSo11UIResponder", "AnyObject"]
+- !private ["CSo11UIResponder", "UIAlertAction"]
+- !private ["CSo11UIResponder", "UIAlertController"]
+- ["CSo11UIResponder", "UITextField"]
+- !private ["CSo11UIResponder", "addAction"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "idTextField"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "nameTextField"]
+- ["CSo11UIResponder", "passwordTextField"]
+- !private ["CSo11UIResponder", "presentViewController"]
+- ["CSo11UIResponder", "signUpButtonPressed"]
+- !private ["CSo11UIResponder", "text"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo16UIStateRestoring", "UIAlertAction"]
+- !private ["PSo16UIStateRestoring", "UIAlertController"]
+- !private ["PSo16UIStateRestoring", "addAction"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "idTextField"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "nameTextField"]
+- ["PSo16UIStateRestoring", "passwordTextField"]
+- !private ["PSo16UIStateRestoring", "presentViewController"]
+- ["PSo16UIStateRestoring", "signUpButtonPressed"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["CSo11UITextField", "text"]
+- !private ["PSo11UITextInput", "text"]
+- !private ["PSo17UITextInputTraits", "text"]
+- !private ["PSo18UITraitEnvironment", "UIAlertAction"]
+- !private ["PSo18UITraitEnvironment", "UIAlertController"]
+- !private ["PSo18UITraitEnvironment", "addAction"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UITraitEnvironment", "idTextField"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "nameTextField"]
+- ["PSo18UITraitEnvironment", "passwordTextField"]
+- !private ["PSo18UITraitEnvironment", "presentViewController"]
+- ["PSo18UITraitEnvironment", "signUpButtonPressed"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "text"]
+- ["CSo16UIViewController", "AnyObject"]
+- !private ["CSo16UIViewController", "UIAlertAction"]
+- !private ["CSo16UIViewController", "UIAlertController"]
+- ["CSo16UIViewController", "UITextField"]
+- !private ["CSo16UIViewController", "addAction"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "idTextField"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "nameTextField"]
+- ["CSo16UIViewController", "passwordTextField"]
+- !private ["CSo16UIViewController", "presentViewController"]
+- ["CSo16UIViewController", "signUpButtonPressed"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["PSs33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["VSs26_OptionalNilComparisonType", "deinit"]
+- !private ["PSs12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["PSs12_Reflectable", "text"]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "Sb"
+- !private "PSs25BooleanLiteralConvertible"
+- !private "PSs11BooleanType"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "Sq"
+- !private "PSs16RawRepresentable"
+- "C15classAttendance20SignUpViewController"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "CSo13UIAlertAction"
+- !private "OSC18UIAlertActionStyle"
+- !private "CSo17UIAlertController"
+- !private "OSC22UIAlertControllerStyle"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- !private "CSo9UIControl"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo10UIKeyInput"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- !private "CSo11UITextField"
+- !private "PSo11UITextInput"
+- !private "PSo17UITextInputTraits"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "PSs33_BuiltinBooleanLiteralConvertible"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "VSs26_OptionalNilComparisonType"
+- !private "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/pramonowang/Desktop/classAttendance/hello-gimbal-swift/GimbalObjectiveCBridgingHeader.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/Gimbal.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLApplicationStatus.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLVisit.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLPlaceManager.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLPlace.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLAttributes.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLCommunicationManager.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLCommunication.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLBeaconManager.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLBeaconSighting.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLBeacon.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLDebugger.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLEstablishedLocationManager.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLEstablishedLocation.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLCircle.h"
+interface-hash: "d9f4766290fcb48de92c7a67b8997bd7"

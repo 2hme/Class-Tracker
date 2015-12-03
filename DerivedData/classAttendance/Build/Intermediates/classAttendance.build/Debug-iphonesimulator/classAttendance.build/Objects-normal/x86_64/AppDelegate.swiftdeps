@@ -1,0 +1,521 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AppDelegate"
+provides-nominal:
+- "C15classAttendance11AppDelegate"
+provides-member:
+- ["C15classAttendance11AppDelegate", ""]
+provides-dynamic-lookup:
+- "window"
+- "applicationDidBecomeActive"
+- "applicationWillEnterForeground"
+- "applicationDidEnterBackground"
+- "localNotificationPermission"
+- "applicationWillResignActive"
+- "application"
+- "applicationWillTerminate"
+depends-top-level:
+- !private "UIStatusBarStyle"
+- "UIResponder"
+- !private "Dictionary"
+- !private "BooleanLiteralType"
+- !private "UINavigationBar"
+- !private "NSForegroundColorAttributeName"
+- "Void"
+- !private "UIUserNotificationType"
+- "UIApplicationDelegate"
+- "UIWindow"
+- "UIApplication"
+- !private "UIUserNotificationSettings"
+- !private "UIColor"
+- "NSObject"
+- !private "print"
+- "AppDelegate"
+- !private "StringLiteralType"
+- !private "Array"
+- "AnyObject"
+- "Bool"
+depends-member:
+- !private ["PSs9AnyObject", "NSForegroundColorAttributeName"]
+- !private ["PSs9AnyObject", "UIApplication"]
+- !private ["PSs9AnyObject", "UIColor"]
+- !private ["PSs9AnyObject", "UINavigationBar"]
+- !private ["PSs9AnyObject", "UIStatusBarStyle"]
+- !private ["PSs9AnyObject", "UIUserNotificationSettings"]
+- !private ["PSs9AnyObject", "UIUserNotificationType"]
+- !private ["PSs9AnyObject", "appearance"]
+- ["PSs9AnyObject", "application"]
+- ["PSs9AnyObject", "applicationDidBecomeActive"]
+- ["PSs9AnyObject", "applicationDidEnterBackground"]
+- ["PSs9AnyObject", "applicationDidFinishLaunching"]
+- ["PSs9AnyObject", "applicationDidReceiveMemoryWarning"]
+- ["PSs9AnyObject", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSs9AnyObject", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSs9AnyObject", "applicationShouldRequestHealthAuthorization"]
+- ["PSs9AnyObject", "applicationSignificantTimeChange"]
+- ["PSs9AnyObject", "applicationWillEnterForeground"]
+- ["PSs9AnyObject", "applicationWillResignActive"]
+- ["PSs9AnyObject", "applicationWillTerminate"]
+- !private ["PSs9AnyObject", "barTintColor"]
+- !private ["PSs9AnyObject", "blueColor"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "localNotificationPermission"]
+- !private ["PSs9AnyObject", "print"]
+- !private ["PSs9AnyObject", "registerUserNotificationSettings"]
+- !private ["PSs9AnyObject", "sharedApplication"]
+- !private ["PSs9AnyObject", "statusBarStyle"]
+- !private ["PSs9AnyObject", "titleTextAttributes"]
+- !private ["PSs9AnyObject", "whiteColor"]
+- ["PSs9AnyObject", "window"]
+- ["PSs9AnyObject", ""]
+- ["C15classAttendance11AppDelegate", "AnyObject"]
+- ["C15classAttendance11AppDelegate", "Bool"]
+- !private ["C15classAttendance11AppDelegate", "NSForegroundColorAttributeName"]
+- ["C15classAttendance11AppDelegate", "NSObject"]
+- ["C15classAttendance11AppDelegate", "UIApplication"]
+- !private ["C15classAttendance11AppDelegate", "UIColor"]
+- !private ["C15classAttendance11AppDelegate", "UINavigationBar"]
+- !private ["C15classAttendance11AppDelegate", "UIStatusBarStyle"]
+- !private ["C15classAttendance11AppDelegate", "UIUserNotificationSettings"]
+- !private ["C15classAttendance11AppDelegate", "UIUserNotificationType"]
+- ["C15classAttendance11AppDelegate", "UIWindow"]
+- ["C15classAttendance11AppDelegate", "Void"]
+- ["C15classAttendance11AppDelegate", "application"]
+- ["C15classAttendance11AppDelegate", "applicationDidBecomeActive"]
+- ["C15classAttendance11AppDelegate", "applicationDidEnterBackground"]
+- ["C15classAttendance11AppDelegate", "applicationDidFinishLaunching"]
+- ["C15classAttendance11AppDelegate", "applicationDidReceiveMemoryWarning"]
+- ["C15classAttendance11AppDelegate", "applicationProtectedDataDidBecomeAvailable"]
+- ["C15classAttendance11AppDelegate", "applicationProtectedDataWillBecomeUnavailable"]
+- ["C15classAttendance11AppDelegate", "applicationShouldRequestHealthAuthorization"]
+- ["C15classAttendance11AppDelegate", "applicationSignificantTimeChange"]
+- ["C15classAttendance11AppDelegate", "applicationWillEnterForeground"]
+- ["C15classAttendance11AppDelegate", "applicationWillResignActive"]
+- ["C15classAttendance11AppDelegate", "applicationWillTerminate"]
+- ["C15classAttendance11AppDelegate", "deinit"]
+- ["C15classAttendance11AppDelegate", "init"]
+- ["C15classAttendance11AppDelegate", "localNotificationPermission"]
+- !private ["C15classAttendance11AppDelegate", "print"]
+- ["C15classAttendance11AppDelegate", "window"]
+- !private ["PSs23ArrayLiteralConvertible", "Alert"]
+- !private ["PSs23ArrayLiteralConvertible", "Badge"]
+- !private ["PSs23ArrayLiteralConvertible", "Element"]
+- !private ["PSs23ArrayLiteralConvertible", "Sound"]
+- !private ["PSs11CVarArgType", "NSForegroundColorAttributeName"]
+- !private ["PSs11CVarArgType", "UIApplication"]
+- !private ["PSs11CVarArgType", "UIColor"]
+- !private ["PSs11CVarArgType", "UINavigationBar"]
+- !private ["PSs11CVarArgType", "UIStatusBarStyle"]
+- !private ["PSs11CVarArgType", "UIUserNotificationSettings"]
+- !private ["PSs11CVarArgType", "UIUserNotificationType"]
+- !private ["PSs11CVarArgType", "appearance"]
+- ["PSs11CVarArgType", "application"]
+- ["PSs11CVarArgType", "applicationDidBecomeActive"]
+- ["PSs11CVarArgType", "applicationDidEnterBackground"]
+- ["PSs11CVarArgType", "applicationDidFinishLaunching"]
+- ["PSs11CVarArgType", "applicationDidReceiveMemoryWarning"]
+- ["PSs11CVarArgType", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSs11CVarArgType", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSs11CVarArgType", "applicationShouldRequestHealthAuthorization"]
+- ["PSs11CVarArgType", "applicationSignificantTimeChange"]
+- ["PSs11CVarArgType", "applicationWillEnterForeground"]
+- ["PSs11CVarArgType", "applicationWillResignActive"]
+- ["PSs11CVarArgType", "applicationWillTerminate"]
+- !private ["PSs11CVarArgType", "barTintColor"]
+- !private ["PSs11CVarArgType", "blueColor"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "localNotificationPermission"]
+- !private ["PSs11CVarArgType", "print"]
+- !private ["PSs11CVarArgType", "registerUserNotificationSettings"]
+- !private ["PSs11CVarArgType", "sharedApplication"]
+- !private ["PSs11CVarArgType", "statusBarStyle"]
+- !private ["PSs11CVarArgType", "titleTextAttributes"]
+- !private ["PSs11CVarArgType", "whiteColor"]
+- ["PSs11CVarArgType", "window"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs14CollectionType", "Key"]
+- !private ["PSs14CollectionType", "Value"]
+- !private ["PSs28CustomDebugStringConvertible", "Key"]
+- !private ["PSs28CustomDebugStringConvertible", "Value"]
+- !private ["PSs23CustomStringConvertible", "Key"]
+- !private ["PSs23CustomStringConvertible", "NSForegroundColorAttributeName"]
+- !private ["PSs23CustomStringConvertible", "UIApplication"]
+- !private ["PSs23CustomStringConvertible", "UIColor"]
+- !private ["PSs23CustomStringConvertible", "UINavigationBar"]
+- !private ["PSs23CustomStringConvertible", "UIStatusBarStyle"]
+- !private ["PSs23CustomStringConvertible", "UIUserNotificationSettings"]
+- !private ["PSs23CustomStringConvertible", "UIUserNotificationType"]
+- !private ["PSs23CustomStringConvertible", "Value"]
+- !private ["PSs23CustomStringConvertible", "appearance"]
+- ["PSs23CustomStringConvertible", "application"]
+- ["PSs23CustomStringConvertible", "applicationDidBecomeActive"]
+- ["PSs23CustomStringConvertible", "applicationDidEnterBackground"]
+- ["PSs23CustomStringConvertible", "applicationDidFinishLaunching"]
+- ["PSs23CustomStringConvertible", "applicationDidReceiveMemoryWarning"]
+- ["PSs23CustomStringConvertible", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSs23CustomStringConvertible", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSs23CustomStringConvertible", "applicationShouldRequestHealthAuthorization"]
+- ["PSs23CustomStringConvertible", "applicationSignificantTimeChange"]
+- ["PSs23CustomStringConvertible", "applicationWillEnterForeground"]
+- ["PSs23CustomStringConvertible", "applicationWillResignActive"]
+- ["PSs23CustomStringConvertible", "applicationWillTerminate"]
+- !private ["PSs23CustomStringConvertible", "barTintColor"]
+- !private ["PSs23CustomStringConvertible", "blueColor"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "localNotificationPermission"]
+- !private ["PSs23CustomStringConvertible", "print"]
+- !private ["PSs23CustomStringConvertible", "registerUserNotificationSettings"]
+- !private ["PSs23CustomStringConvertible", "sharedApplication"]
+- !private ["PSs23CustomStringConvertible", "statusBarStyle"]
+- !private ["PSs23CustomStringConvertible", "titleTextAttributes"]
+- !private ["PSs23CustomStringConvertible", "whiteColor"]
+- ["PSs23CustomStringConvertible", "window"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["VSs10Dictionary", "Key"]
+- !private ["VSs10Dictionary", "Value"]
+- !private ["PSs28DictionaryLiteralConvertible", "Key"]
+- !private ["PSs28DictionaryLiteralConvertible", "Value"]
+- !private ["PSs9Equatable", "Alert"]
+- !private ["PSs9Equatable", "Badge"]
+- !private ["PSs9Equatable", "Element"]
+- !private ["PSs9Equatable", "LightContent"]
+- !private ["PSs9Equatable", "NSForegroundColorAttributeName"]
+- !private ["PSs9Equatable", "Sound"]
+- !private ["PSs9Equatable", "UIApplication"]
+- !private ["PSs9Equatable", "UIColor"]
+- !private ["PSs9Equatable", "UINavigationBar"]
+- !private ["PSs9Equatable", "UIStatusBarStyle"]
+- !private ["PSs9Equatable", "UIUserNotificationSettings"]
+- !private ["PSs9Equatable", "UIUserNotificationType"]
+- !private ["PSs9Equatable", "appearance"]
+- ["PSs9Equatable", "application"]
+- ["PSs9Equatable", "applicationDidBecomeActive"]
+- ["PSs9Equatable", "applicationDidEnterBackground"]
+- ["PSs9Equatable", "applicationDidFinishLaunching"]
+- ["PSs9Equatable", "applicationDidReceiveMemoryWarning"]
+- ["PSs9Equatable", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSs9Equatable", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSs9Equatable", "applicationShouldRequestHealthAuthorization"]
+- ["PSs9Equatable", "applicationSignificantTimeChange"]
+- ["PSs9Equatable", "applicationWillEnterForeground"]
+- ["PSs9Equatable", "applicationWillResignActive"]
+- ["PSs9Equatable", "applicationWillTerminate"]
+- !private ["PSs9Equatable", "barTintColor"]
+- !private ["PSs9Equatable", "blueColor"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "localNotificationPermission"]
+- !private ["PSs9Equatable", "print"]
+- !private ["PSs9Equatable", "registerUserNotificationSettings"]
+- !private ["PSs9Equatable", "sharedApplication"]
+- !private ["PSs9Equatable", "statusBarStyle"]
+- !private ["PSs9Equatable", "titleTextAttributes"]
+- !private ["PSs9Equatable", "whiteColor"]
+- ["PSs9Equatable", "window"]
+- ["PSs9Equatable", ""]
+- !private ["PSs8Hashable", "LightContent"]
+- !private ["PSs8Hashable", "NSForegroundColorAttributeName"]
+- !private ["PSs8Hashable", "UIApplication"]
+- !private ["PSs8Hashable", "UIColor"]
+- !private ["PSs8Hashable", "UINavigationBar"]
+- !private ["PSs8Hashable", "UIStatusBarStyle"]
+- !private ["PSs8Hashable", "UIUserNotificationSettings"]
+- !private ["PSs8Hashable", "UIUserNotificationType"]
+- !private ["PSs8Hashable", "appearance"]
+- ["PSs8Hashable", "application"]
+- ["PSs8Hashable", "applicationDidBecomeActive"]
+- ["PSs8Hashable", "applicationDidEnterBackground"]
+- ["PSs8Hashable", "applicationDidFinishLaunching"]
+- ["PSs8Hashable", "applicationDidReceiveMemoryWarning"]
+- ["PSs8Hashable", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSs8Hashable", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSs8Hashable", "applicationShouldRequestHealthAuthorization"]
+- ["PSs8Hashable", "applicationSignificantTimeChange"]
+- ["PSs8Hashable", "applicationWillEnterForeground"]
+- ["PSs8Hashable", "applicationWillResignActive"]
+- ["PSs8Hashable", "applicationWillTerminate"]
+- !private ["PSs8Hashable", "barTintColor"]
+- !private ["PSs8Hashable", "blueColor"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "localNotificationPermission"]
+- !private ["PSs8Hashable", "print"]
+- !private ["PSs8Hashable", "registerUserNotificationSettings"]
+- !private ["PSs8Hashable", "sharedApplication"]
+- !private ["PSs8Hashable", "statusBarStyle"]
+- !private ["PSs8Hashable", "titleTextAttributes"]
+- !private ["PSs8Hashable", "whiteColor"]
+- ["PSs8Hashable", "window"]
+- ["PSs8Hashable", ""]
+- !private ["PSs9Indexable", "Key"]
+- !private ["PSs9Indexable", "Value"]
+- !private ["PSo8NSCoding", "appearance"]
+- !private ["PSo8NSCoding", "barTintColor"]
+- !private ["PSo8NSCoding", "blueColor"]
+- !private ["PSo8NSCoding", "titleTextAttributes"]
+- !private ["PSo8NSCoding", "whiteColor"]
+- !private ["PSo9NSCopying", "blueColor"]
+- !private ["PSo9NSCopying", "whiteColor"]
+- ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "NSForegroundColorAttributeName"]
+- ["CSo8NSObject", "NSObject"]
+- ["CSo8NSObject", "UIApplication"]
+- !private ["CSo8NSObject", "UIColor"]
+- !private ["CSo8NSObject", "UINavigationBar"]
+- !private ["CSo8NSObject", "UIStatusBarStyle"]
+- !private ["CSo8NSObject", "UIUserNotificationSettings"]
+- !private ["CSo8NSObject", "UIUserNotificationType"]
+- ["CSo8NSObject", "UIWindow"]
+- ["CSo8NSObject", "Void"]
+- !private ["CSo8NSObject", "appearance"]
+- ["CSo8NSObject", "application"]
+- ["CSo8NSObject", "applicationDidBecomeActive"]
+- ["CSo8NSObject", "applicationDidEnterBackground"]
+- ["CSo8NSObject", "applicationDidFinishLaunching"]
+- ["CSo8NSObject", "applicationDidReceiveMemoryWarning"]
+- ["CSo8NSObject", "applicationProtectedDataDidBecomeAvailable"]
+- ["CSo8NSObject", "applicationProtectedDataWillBecomeUnavailable"]
+- ["CSo8NSObject", "applicationShouldRequestHealthAuthorization"]
+- ["CSo8NSObject", "applicationSignificantTimeChange"]
+- ["CSo8NSObject", "applicationWillEnterForeground"]
+- ["CSo8NSObject", "applicationWillResignActive"]
+- ["CSo8NSObject", "applicationWillTerminate"]
+- !private ["CSo8NSObject", "barTintColor"]
+- !private ["CSo8NSObject", "blueColor"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "localNotificationPermission"]
+- !private ["CSo8NSObject", "print"]
+- !private ["CSo8NSObject", "registerUserNotificationSettings"]
+- !private ["CSo8NSObject", "sharedApplication"]
+- !private ["CSo8NSObject", "statusBarStyle"]
+- !private ["CSo8NSObject", "titleTextAttributes"]
+- !private ["CSo8NSObject", "whiteColor"]
+- ["CSo8NSObject", "window"]
+- !private ["PSo16NSObjectProtocol", "NSForegroundColorAttributeName"]
+- !private ["PSo16NSObjectProtocol", "UIApplication"]
+- !private ["PSo16NSObjectProtocol", "UIColor"]
+- !private ["PSo16NSObjectProtocol", "UINavigationBar"]
+- !private ["PSo16NSObjectProtocol", "UIStatusBarStyle"]
+- !private ["PSo16NSObjectProtocol", "UIUserNotificationSettings"]
+- !private ["PSo16NSObjectProtocol", "UIUserNotificationType"]
+- !private ["PSo16NSObjectProtocol", "appearance"]
+- ["PSo16NSObjectProtocol", "application"]
+- ["PSo16NSObjectProtocol", "applicationDidBecomeActive"]
+- ["PSo16NSObjectProtocol", "applicationDidEnterBackground"]
+- ["PSo16NSObjectProtocol", "applicationDidFinishLaunching"]
+- ["PSo16NSObjectProtocol", "applicationDidReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSo16NSObjectProtocol", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSo16NSObjectProtocol", "applicationShouldRequestHealthAuthorization"]
+- ["PSo16NSObjectProtocol", "applicationSignificantTimeChange"]
+- ["PSo16NSObjectProtocol", "applicationWillEnterForeground"]
+- ["PSo16NSObjectProtocol", "applicationWillResignActive"]
+- ["PSo16NSObjectProtocol", "applicationWillTerminate"]
+- !private ["PSo16NSObjectProtocol", "barTintColor"]
+- !private ["PSo16NSObjectProtocol", "blueColor"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "localNotificationPermission"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- !private ["PSo16NSObjectProtocol", "registerUserNotificationSettings"]
+- !private ["PSo16NSObjectProtocol", "sharedApplication"]
+- !private ["PSo16NSObjectProtocol", "statusBarStyle"]
+- !private ["PSo16NSObjectProtocol", "titleTextAttributes"]
+- !private ["PSo16NSObjectProtocol", "whiteColor"]
+- ["PSo16NSObjectProtocol", "window"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "blueColor"]
+- !private ["PSo14NSSecureCoding", "whiteColor"]
+- !private ["PSs13OptionSetType", "Alert"]
+- !private ["PSs13OptionSetType", "Badge"]
+- !private ["PSs13OptionSetType", "Element"]
+- !private ["PSs13OptionSetType", "Sound"]
+- !private ["Sq", "deinit"]
+- !private ["PSs16RawRepresentable", "Alert"]
+- !private ["PSs16RawRepresentable", "Badge"]
+- !private ["PSs16RawRepresentable", "Element"]
+- !private ["PSs16RawRepresentable", "LightContent"]
+- !private ["PSs16RawRepresentable", "Sound"]
+- !private ["PSs12SequenceType", "Key"]
+- !private ["PSs12SequenceType", "Value"]
+- !private ["PSs14SetAlgebraType", "Alert"]
+- !private ["PSs14SetAlgebraType", "Badge"]
+- !private ["PSs14SetAlgebraType", "Element"]
+- !private ["PSs14SetAlgebraType", "Sound"]
+- !private ["PSo29UIAccessibilityIdentification", "appearance"]
+- !private ["PSo29UIAccessibilityIdentification", "barTintColor"]
+- !private ["PSo29UIAccessibilityIdentification", "titleTextAttributes"]
+- !private ["PSo12UIAppearance", "appearance"]
+- !private ["PSo12UIAppearance", "barTintColor"]
+- !private ["PSo12UIAppearance", "titleTextAttributes"]
+- !private ["PSo21UIAppearanceContainer", "appearance"]
+- !private ["PSo21UIAppearanceContainer", "barTintColor"]
+- !private ["PSo21UIAppearanceContainer", "titleTextAttributes"]
+- !private ["CSo13UIApplication", "registerUserNotificationSettings"]
+- !private ["CSo13UIApplication", "sharedApplication"]
+- !private ["CSo13UIApplication", "statusBarStyle"]
+- !private ["PSo21UIApplicationDelegate", "NSForegroundColorAttributeName"]
+- !private ["PSo21UIApplicationDelegate", "UIApplication"]
+- !private ["PSo21UIApplicationDelegate", "UIColor"]
+- !private ["PSo21UIApplicationDelegate", "UINavigationBar"]
+- !private ["PSo21UIApplicationDelegate", "UIStatusBarStyle"]
+- !private ["PSo21UIApplicationDelegate", "UIUserNotificationSettings"]
+- !private ["PSo21UIApplicationDelegate", "UIUserNotificationType"]
+- ["PSo21UIApplicationDelegate", "application"]
+- ["PSo21UIApplicationDelegate", "applicationDidBecomeActive"]
+- ["PSo21UIApplicationDelegate", "applicationDidEnterBackground"]
+- ["PSo21UIApplicationDelegate", "applicationDidFinishLaunching"]
+- ["PSo21UIApplicationDelegate", "applicationDidReceiveMemoryWarning"]
+- ["PSo21UIApplicationDelegate", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSo21UIApplicationDelegate", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSo21UIApplicationDelegate", "applicationShouldRequestHealthAuthorization"]
+- ["PSo21UIApplicationDelegate", "applicationSignificantTimeChange"]
+- ["PSo21UIApplicationDelegate", "applicationWillEnterForeground"]
+- ["PSo21UIApplicationDelegate", "applicationWillResignActive"]
+- ["PSo21UIApplicationDelegate", "applicationWillTerminate"]
+- !private ["PSo21UIApplicationDelegate", "localNotificationPermission"]
+- !private ["PSo21UIApplicationDelegate", "print"]
+- ["PSo21UIApplicationDelegate", "window"]
+- ["PSo21UIApplicationDelegate", ""]
+- !private ["PSo16UIBarPositioning", "appearance"]
+- !private ["PSo16UIBarPositioning", "barTintColor"]
+- !private ["PSo16UIBarPositioning", "titleTextAttributes"]
+- !private ["CSo7UIColor", "blueColor"]
+- !private ["CSo7UIColor", "whiteColor"]
+- !private ["PSo17UICoordinateSpace", "appearance"]
+- !private ["PSo17UICoordinateSpace", "barTintColor"]
+- !private ["PSo17UICoordinateSpace", "titleTextAttributes"]
+- !private ["PSo13UIDynamicItem", "appearance"]
+- !private ["PSo13UIDynamicItem", "barTintColor"]
+- !private ["PSo13UIDynamicItem", "titleTextAttributes"]
+- !private ["PSo18UIFocusEnvironment", "appearance"]
+- !private ["PSo18UIFocusEnvironment", "barTintColor"]
+- !private ["PSo18UIFocusEnvironment", "titleTextAttributes"]
+- !private ["CSo15UINavigationBar", "appearance"]
+- !private ["CSo15UINavigationBar", "barTintColor"]
+- !private ["CSo15UINavigationBar", "titleTextAttributes"]
+- ["CSo11UIResponder", "AnyObject"]
+- ["CSo11UIResponder", "Bool"]
+- !private ["CSo11UIResponder", "NSForegroundColorAttributeName"]
+- ["CSo11UIResponder", "NSObject"]
+- ["CSo11UIResponder", "UIApplication"]
+- !private ["CSo11UIResponder", "UIColor"]
+- !private ["CSo11UIResponder", "UINavigationBar"]
+- !private ["CSo11UIResponder", "UIStatusBarStyle"]
+- !private ["CSo11UIResponder", "UIUserNotificationSettings"]
+- !private ["CSo11UIResponder", "UIUserNotificationType"]
+- ["CSo11UIResponder", "UIWindow"]
+- ["CSo11UIResponder", "Void"]
+- !private ["CSo11UIResponder", "appearance"]
+- ["CSo11UIResponder", "application"]
+- ["CSo11UIResponder", "applicationDidBecomeActive"]
+- ["CSo11UIResponder", "applicationDidEnterBackground"]
+- ["CSo11UIResponder", "applicationDidFinishLaunching"]
+- ["CSo11UIResponder", "applicationDidReceiveMemoryWarning"]
+- ["CSo11UIResponder", "applicationProtectedDataDidBecomeAvailable"]
+- ["CSo11UIResponder", "applicationProtectedDataWillBecomeUnavailable"]
+- ["CSo11UIResponder", "applicationShouldRequestHealthAuthorization"]
+- ["CSo11UIResponder", "applicationSignificantTimeChange"]
+- ["CSo11UIResponder", "applicationWillEnterForeground"]
+- ["CSo11UIResponder", "applicationWillResignActive"]
+- ["CSo11UIResponder", "applicationWillTerminate"]
+- !private ["CSo11UIResponder", "barTintColor"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "localNotificationPermission"]
+- !private ["CSo11UIResponder", "print"]
+- !private ["CSo11UIResponder", "registerUserNotificationSettings"]
+- !private ["CSo11UIResponder", "sharedApplication"]
+- !private ["CSo11UIResponder", "statusBarStyle"]
+- !private ["CSo11UIResponder", "titleTextAttributes"]
+- ["CSo11UIResponder", "window"]
+- ["CSo11UIResponder", ""]
+- !private ["OSC16UIStatusBarStyle", "LightContent"]
+- !private ["PSo18UITraitEnvironment", "appearance"]
+- !private ["PSo18UITraitEnvironment", "barTintColor"]
+- !private ["PSo18UITraitEnvironment", "titleTextAttributes"]
+- !private ["CSo26UIUserNotificationSettings", "init"]
+- !private ["VSC22UIUserNotificationType", "Alert"]
+- !private ["VSC22UIUserNotificationType", "Badge"]
+- !private ["VSC22UIUserNotificationType", "Element"]
+- !private ["VSC22UIUserNotificationType", "Sound"]
+- !private ["CSo6UIView", "appearance"]
+- !private ["CSo6UIView", "barTintColor"]
+- !private ["CSo6UIView", "titleTextAttributes"]
+- !private ["PSs24_ColorLiteralConvertible", "blueColor"]
+- !private ["PSs24_ColorLiteralConvertible", "whiteColor"]
+- !private ["PSs21_ObjectiveCBridgeable", "Key"]
+- !private ["PSs21_ObjectiveCBridgeable", "Value"]
+- !private ["PSs12_Reflectable", "Key"]
+- !private ["PSs12_Reflectable", "Value"]
+- !private ["PSs12_Reflectable", "appearance"]
+- !private ["PSs12_Reflectable", "barTintColor"]
+- !private ["PSs12_Reflectable", "titleTextAttributes"]
+depends-nominal:
+- "PSs9AnyObject"
+- "C15classAttendance11AppDelegate"
+- !private "PSs23ArrayLiteralConvertible"
+- "PSs11CVarArgType"
+- !private "PSs14CollectionType"
+- !private "PSs28CustomDebugStringConvertible"
+- "PSs23CustomStringConvertible"
+- !private "VSs10Dictionary"
+- !private "PSs28DictionaryLiteralConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- !private "PSs9Indexable"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "PSs13OptionSetType"
+- !private "Sq"
+- !private "PSs16RawRepresentable"
+- !private "PSs12SequenceType"
+- !private "PSs14SetAlgebraType"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- !private "PSo21UIAppearanceContainer"
+- !private "CSo13UIApplication"
+- "PSo21UIApplicationDelegate"
+- !private "PSo16UIBarPositioning"
+- !private "CSo7UIColor"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- !private "PSo18UIFocusEnvironment"
+- !private "CSo15UINavigationBar"
+- "CSo11UIResponder"
+- !private "OSC16UIStatusBarStyle"
+- !private "PSo18UITraitEnvironment"
+- !private "CSo26UIUserNotificationSettings"
+- !private "VSC22UIUserNotificationType"
+- !private "CSo6UIView"
+- !private "PSs24_ColorLiteralConvertible"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/pramonowang/Desktop/classAttendance/hello-gimbal-swift/GimbalObjectiveCBridgingHeader.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/Gimbal.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLApplicationStatus.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLVisit.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLPlaceManager.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLPlace.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLAttributes.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLCommunicationManager.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLCommunication.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLBeaconManager.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLBeaconSighting.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLBeacon.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLDebugger.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLEstablishedLocationManager.h"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLEstablishedLocation.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Users/pramonowang/Desktop/classAttendance/Gimbal.framework/Headers/GMBLCircle.h"
+interface-hash: "a635d5128f5891c4e3e55cdf55a610e0"

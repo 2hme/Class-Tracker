@@ -1,0 +1,28 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/pramonowang/Desktop/classAttendance/DerivedData/classAttendance/Build/Products/Debug-iphonesimulator/classAttendance.app/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "classAttendance-Swift.h",
+          'external-contents': "/Users/pramonowang/Desktop/classAttendance/DerivedData/classAttendance/Build/Products/Debug-iphonesimulator/classAttendance.app/Headers/classAttendance-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/pramonowang/Desktop/classAttendance/DerivedData/classAttendance/Build/Products/Debug-iphonesimulator/classAttendance.app/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/pramonowang/Desktop/classAttendance/DerivedData/classAttendance/Build/Intermediates/classAttendance.build/Debug-iphonesimulator/classAttendance.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

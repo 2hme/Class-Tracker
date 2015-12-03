@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "6ad1afbe2bfba3dee3ea40fab89c2d72"
+build_time: [501363277, 385236000]
+inputs:
+  "/Users/pramonowang/Desktop/classAttendance/hello-gimbal-swift/AppDelegate.swift": [500945192, 0]
+  "/Users/pramonowang/Desktop/classAttendance/hello-gimbal-swift/SignInViewController.swift": [9223372036854775807, 0]
+  "/Users/pramonowang/Desktop/classAttendance/hello-gimbal-swift/appViewController.swift": [501363125, 0]
